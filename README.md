@@ -13,6 +13,7 @@ Network scanning helps identify active hosts, open ports, running services, and 
 1. nmap 127.0.0.1
 2. nmap -sV 127.0.0.1
 3. sudo nmap -O 127.0.0.1
+4. cat_nmap_scan_results.txt
 
 ## Target
 127.0.0.1 (Localhost)
